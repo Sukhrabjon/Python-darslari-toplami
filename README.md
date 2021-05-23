@@ -1,2 +1,2 @@
 # Python-darslari-toplami
-Python 1-dars
+Python-karabulak-darslari-toplami
